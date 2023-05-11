@@ -11,3 +11,12 @@ Esto permite agregar las modificaciones que hayamos hecho
 
 5. git log
 Veo que version esta y cuando se actualizo
+
+6. git branch nombrederama
+Agrega una rama nueva
+
+7. git checkout nombrederama
+Se pasa a la rama
+
+8. git branch -d nombrederama
+Se elimina la rama
